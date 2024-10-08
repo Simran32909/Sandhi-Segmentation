@@ -1,0 +1,2389 @@
+[
+  {
+    "sent_id": 6,
+    "joint_sentence": "ghaṭasthayogam yogeśa tattvajñānasya kāraṇam",
+    "segmented_sentence": "ghaṭa stha yogam yoga īśa tattva jñānasya kāraṇam",
+    "t1_ground_truth": [
+      [
+        "ghaṭa",
+        "stha",
+        "yogam"
+      ],
+      [
+        "yoga",
+        "īśa"
+      ],
+      [
+        "tattva",
+        "jñānasya"
+      ],
+      [
+        "kāraṇam"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "ghaṭa",
+        "iic."
+      ],
+      [
+        "stha",
+        "iic."
+      ],
+      [
+        "yoga",
+        "m. sg. acc."
+      ],
+      [
+        "yoga",
+        "iic."
+      ],
+      [
+        "īśa",
+        "m. sg. voc."
+      ],
+      [
+        "tattva",
+        "iic."
+      ],
+      [
+        "jñāna",
+        "n. sg. g."
+      ],
+      [
+        "kāraṇa",
+        "n. sg. acc."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "ghaṭa",
+          "ghaṭa",
+          "iic."
+        ],
+        [
+          "stha",
+          "stha",
+          "iic."
+        ],
+        [
+          "yogam",
+          "yoga",
+          "m. sg. acc."
+        ]
+      ],
+      [
+        [
+          "yoga",
+          "yoga",
+          "iic."
+        ],
+        [
+          "īśa",
+          "īśa",
+          "m. sg. voc."
+        ]
+      ],
+      [
+        [
+          "tattva",
+          "tattva",
+          "iic."
+        ],
+        [
+          "jñānasya",
+          "jñāna",
+          "n. sg. g."
+        ]
+      ],
+      [
+        [
+          "kāraṇam",
+          "kāraṇa",
+          "n. sg. acc."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "32",
+        "11",
+        "0"
+      ],
+      [
+        "16",
+        "15"
+      ],
+      [
+        "20",
+        "33"
+      ],
+      [
+        "26"
+      ]
+    ]
+  },
+  {
+    "sent_id": 11,
+    "joint_sentence": "nāsti māyāsamaḥ pāśo nāsti yogāt param balam",
+    "segmented_sentence": "na asti māyā samaḥ pāśaḥ na asti yogāt param balam",
+    "t1_ground_truth": [
+      [
+        "na",
+        "asti"
+      ],
+      [
+        "māyā",
+        "samaḥ"
+      ],
+      [
+        "pāśaḥ"
+      ],
+      [
+        "na",
+        "asti"
+      ],
+      [
+        "yogāt"
+      ],
+      [
+        "param"
+      ],
+      [
+        "balam"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "na",
+        "part."
+      ],
+      [
+        "as",
+        "pr. [2] ac. sg. 3"
+      ],
+      [
+        "māyā",
+        "iic."
+      ],
+      [
+        "sama",
+        "m. sg. nom."
+      ],
+      [
+        "pāśa",
+        "m. sg. nom."
+      ],
+      [
+        "na",
+        "part."
+      ],
+      [
+        "as",
+        "pr. [2] ac. sg. 3"
+      ],
+      [
+        "yoga",
+        "m. sg. abl."
+      ],
+      [
+        "para",
+        "n. sg. nom."
+      ],
+      [
+        "bala",
+        "n. sg. nom."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "na",
+          "na",
+          "part."
+        ],
+        [
+          "asti",
+          "as",
+          "pr. [2] ac. sg. 3"
+        ]
+      ],
+      [
+        [
+          "māyā",
+          "māyā",
+          "iic."
+        ],
+        [
+          "samaḥ",
+          "sama",
+          "m. sg. nom."
+        ]
+      ],
+      [
+        [
+          "pāśaḥ",
+          "pāśa",
+          "m. sg. nom."
+        ]
+      ],
+      [
+        [
+          "na",
+          "na",
+          "part."
+        ],
+        [
+          "asti",
+          "as",
+          "pr. [2] ac. sg. 3"
+        ]
+      ],
+      [
+        [
+          "yogāt",
+          "yoga",
+          "m. sg. abl."
+        ]
+      ],
+      [
+        [
+          "param",
+          "para",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "balam",
+          "bala",
+          "n. sg. nom."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "11",
+        "9"
+      ],
+      [
+        "4",
+        "25"
+      ],
+      [
+        "5"
+      ],
+      [
+        "8",
+        "14"
+      ],
+      [
+        "29"
+      ],
+      [
+        "18"
+      ],
+      [
+        "15"
+      ]
+    ]
+  },
+  {
+    "sent_id": 58,
+    "joint_sentence": "dantamūlam jihvāmūlam randhram ca karṇayugmayoḥ",
+    "segmented_sentence": "danta mūlam jihvā mūlam randhram ca karṇa yugmayoḥ",
+    "t1_ground_truth": [
+      [
+        "danta",
+        "mūlam"
+      ],
+      [
+        "jihvā",
+        "mūlam"
+      ],
+      [
+        "randhram"
+      ],
+      [
+        "ca"
+      ],
+      [
+        "karṇa",
+        "yugmayoḥ"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "danta",
+        "iic."
+      ],
+      [
+        "mūla",
+        "n. sg. nom."
+      ],
+      [
+        "jihvā",
+        "iic."
+      ],
+      [
+        "mūla",
+        "n. sg. nom."
+      ],
+      [
+        "randhra",
+        "n. sg. nom."
+      ],
+      [
+        "ca",
+        "conj."
+      ],
+      [
+        "karṇa",
+        "iic."
+      ],
+      [
+        "yugma",
+        "n. du. g."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "danta",
+          "danta",
+          "iic."
+        ],
+        [
+          "mūlam",
+          "mūla",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "jihvā",
+          "jihvā",
+          "iic."
+        ],
+        [
+          "mūlam",
+          "mūla",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "randhram",
+          "randhra",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "ca",
+          "ca",
+          "conj."
+        ]
+      ],
+      [
+        [
+          "karṇa",
+          "karṇa",
+          "iic."
+        ],
+        [
+          "yugmayoḥ",
+          "yugma",
+          "n. du. g."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "37",
+        "25"
+      ],
+      [
+        "28",
+        "19"
+      ],
+      [
+        "34"
+      ],
+      [
+        "14"
+      ],
+      [
+        "3",
+        "30"
+      ]
+    ]
+  },
+  {
+    "sent_id": 62,
+    "joint_sentence": "dantamūlam parā dhautir yoginām yogasādhane",
+    "segmented_sentence": "danta mūlam parā dhautiḥ yoginām yoga sādhane",
+    "t1_ground_truth": [
+      [
+        "danta",
+        "mūlam"
+      ],
+      [
+        "parā"
+      ],
+      [
+        "dhautiḥ"
+      ],
+      [
+        "yoginām"
+      ],
+      [
+        "yoga",
+        "sādhane"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "danta",
+        "iic."
+      ],
+      [
+        "mūla",
+        "n. sg. nom."
+      ],
+      [
+        "para",
+        "f. sg. nom."
+      ],
+      [
+        "dhauti",
+        "f. sg. nom."
+      ],
+      [
+        "yogin",
+        "m. pl. g."
+      ],
+      [
+        "yoga",
+        "iic."
+      ],
+      [
+        "sādhana",
+        "n. sg. loc."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "danta",
+          "danta",
+          "iic."
+        ],
+        [
+          "mūlam",
+          "mūla",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "parā",
+          "para",
+          "f. sg. nom."
+        ]
+      ],
+      [
+        [
+          "dhautiḥ",
+          "dhauti",
+          "f. sg. nom."
+        ]
+      ],
+      [
+        [
+          "yoginām",
+          "yogin",
+          "m. pl. g."
+        ]
+      ],
+      [
+        [
+          "yoga",
+          "yoga",
+          "iic."
+        ],
+        [
+          "sādhane",
+          "sādhana",
+          "n. sg. loc."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "3",
+        "19"
+      ],
+      [
+        "13"
+      ],
+      [
+        "6"
+      ],
+      [
+        "20"
+      ],
+      [
+        "16",
+        "7"
+      ]
+    ]
+  },
+  {
+    "sent_id": 79,
+    "joint_sentence": "nidrānte bhojanānte ca divānte ca dine dine",
+    "segmented_sentence": "nidrā ante bhojana ante ca diva ante ca dine dine ",
+    "t1_ground_truth": [
+      [
+        "nidrā",
+        "ante"
+      ],
+      [
+        "bhojana",
+        "ante"
+      ],
+      [
+        "ca"
+      ],
+      [
+        "diva",
+        "ante"
+      ],
+      [
+        "ca"
+      ],
+      [
+        "dine"
+      ],
+      [
+        "dine"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "nidrā",
+        "iic."
+      ],
+      [
+        "anta",
+        "m. sg. loc."
+      ],
+      [
+        "bhojana",
+        "iic."
+      ],
+      [
+        "anta",
+        "m. sg. loc."
+      ],
+      [
+        "ca",
+        "conj."
+      ],
+      [
+        "diva",
+        "iic."
+      ],
+      [
+        "anta",
+        "m. sg. loc."
+      ],
+      [
+        "ca",
+        "conj."
+      ],
+      [
+        "dina",
+        "n. sg. loc."
+      ],
+      [
+        "dina",
+        "n. sg. loc."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "nidrā",
+          "nidrā",
+          "iic."
+        ],
+        [
+          "ante",
+          "anta",
+          "m. sg. loc."
+        ]
+      ],
+      [
+        [
+          "bhojana",
+          "bhojana",
+          "iic."
+        ],
+        [
+          "ante",
+          "anta",
+          "m. sg. loc."
+        ]
+      ],
+      [
+        [
+          "ca",
+          "ca",
+          "conj."
+        ]
+      ],
+      [
+        [
+          "diva",
+          "diva",
+          "iic."
+        ],
+        [
+          "ante",
+          "anta",
+          "m. sg. loc."
+        ]
+      ],
+      [
+        [
+          "ca",
+          "ca",
+          "conj."
+        ]
+      ],
+      [
+        [
+          "dine",
+          "dina",
+          "n. sg. loc."
+        ]
+      ],
+      [
+        [
+          "dine",
+          "dina",
+          "n. sg. loc."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "50",
+        "71"
+      ],
+      [
+        "44",
+        "7"
+      ],
+      [
+        "34"
+      ],
+      [
+        "74",
+        "64"
+      ],
+      [
+        "25"
+      ],
+      [
+        "4"
+      ],
+      [
+        "51"
+      ]
+    ]
+  },
+  {
+    "sent_id": 81,
+    "joint_sentence": "rambhādaṇḍam hariddaṇḍam vetradaṇḍam tathaiva ca",
+    "segmented_sentence": "rambhā daṇḍam harit daṇḍam vetra daṇḍam tathā eva ca",
+    "t1_ground_truth": [
+      [
+        "rambhā",
+        "daṇḍam"
+      ],
+      [
+        "harit",
+        "daṇḍam"
+      ],
+      [
+        "vetra",
+        "daṇḍam"
+      ],
+      [
+        "tathā",
+        "eva"
+      ],
+      [
+        "ca"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "rambhā",
+        "iic."
+      ],
+      [
+        "daṇḍa",
+        "m. sg. acc."
+      ],
+      [
+        "harit",
+        "iic."
+      ],
+      [
+        "daṇḍa",
+        "m. sg. acc."
+      ],
+      [
+        "vetra",
+        "iic."
+      ],
+      [
+        "daṇḍa",
+        "m. sg. acc."
+      ],
+      [
+        "tathā",
+        "adv."
+      ],
+      [
+        "eva",
+        "prep."
+      ],
+      [
+        "ca",
+        "conj."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "rambhā",
+          "rambhā",
+          "iic."
+        ],
+        [
+          "daṇḍam",
+          "daṇḍa",
+          "m. sg. acc."
+        ]
+      ],
+      [
+        [
+          "harit",
+          "harit",
+          "iic."
+        ],
+        [
+          "daṇḍam",
+          "daṇḍa",
+          "m. sg. acc."
+        ]
+      ],
+      [
+        [
+          "vetra",
+          "vetra",
+          "iic."
+        ],
+        [
+          "daṇḍam",
+          "daṇḍa",
+          "m. sg. acc."
+        ]
+      ],
+      [
+        [
+          "tathā",
+          "tathā",
+          "adv."
+        ],
+        [
+          "eva",
+          "eva",
+          "prep."
+        ]
+      ],
+      [
+        [
+          "ca",
+          "ca",
+          "conj."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "15",
+        "6"
+      ],
+      [
+        "4",
+        "0"
+      ],
+      [
+        "20",
+        "3"
+      ],
+      [
+        "2",
+        "12"
+      ],
+      [
+        "16"
+      ]
+    ]
+  },
+  {
+    "sent_id": 89,
+    "joint_sentence": "caturaṅgulavistāram sūkṣmavastram śanair graset",
+    "segmented_sentence": "catuḥ aṅgula vistāram sūkṣma vastram śanaiḥ graset",
+    "t1_ground_truth": [
+      [
+        "catuḥ",
+        "aṅgula",
+        "vistāram"
+      ],
+      [
+        "sūkṣma",
+        "vastram"
+      ],
+      [
+        "śanaiḥ"
+      ],
+      [
+        "graset"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "catur",
+        "iic."
+      ],
+      [
+        "aṅgula",
+        "iic."
+      ],
+      [
+        "vistāra",
+        "n. sg. acc."
+      ],
+      [
+        "sūkṣma",
+        "iic."
+      ],
+      [
+        "vastra",
+        "n. sg. acc."
+      ],
+      [
+        "śanais",
+        "adv."
+      ],
+      [
+        "gras",
+        "opt. [1] ac. sg. 3"
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "catuḥ",
+          "catur",
+          "iic."
+        ],
+        [
+          "aṅgula",
+          "aṅgula",
+          "iic."
+        ],
+        [
+          "vistāram",
+          "vistāra",
+          "n. sg. acc."
+        ]
+      ],
+      [
+        [
+          "sūkṣma",
+          "sūkṣma",
+          "iic."
+        ],
+        [
+          "vastram",
+          "vastra",
+          "n. sg. acc."
+        ]
+      ],
+      [
+        [
+          "śanaiḥ",
+          "śanais",
+          "adv."
+        ]
+      ],
+      [
+        [
+          "graset",
+          "gras",
+          "opt. [1] ac. sg. 3"
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "4",
+        "2",
+        "11"
+      ],
+      [
+        "17",
+        "12"
+      ],
+      [
+        "0"
+      ],
+      [
+        "10"
+      ]
+    ]
+  },
+  {
+    "sent_id": 92,
+    "joint_sentence": "ārogyam balapuṣṭiś ca bhavet tasya dine dine",
+    "segmented_sentence": "ārogyam bala puṣṭiḥ ca bhavet tasya dine dine ",
+    "t1_ground_truth": [
+      [
+        "ārogyam"
+      ],
+      [
+        "bala",
+        "puṣṭiḥ"
+      ],
+      [
+        "ca"
+      ],
+      [
+        "bhavet"
+      ],
+      [
+        "tasya"
+      ],
+      [
+        "dine"
+      ],
+      [
+        "dine"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "ārogya",
+        "n. sg. nom."
+      ],
+      [
+        "bala",
+        "iic."
+      ],
+      [
+        "puṣṭi",
+        "f. sg. nom."
+      ],
+      [
+        "ca",
+        "conj."
+      ],
+      [
+        "bhū",
+        "opt. [1] ac. sg. 3"
+      ],
+      [
+        "tad",
+        "m. sg. g."
+      ],
+      [
+        "dina",
+        "n. sg. loc."
+      ],
+      [
+        "dina",
+        "n. sg. loc."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "ārogyam",
+          "ārogya",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "bala",
+          "bala",
+          "iic."
+        ],
+        [
+          "puṣṭiḥ",
+          "puṣṭi",
+          "f. sg. nom."
+        ]
+      ],
+      [
+        [
+          "ca",
+          "ca",
+          "conj."
+        ]
+      ],
+      [
+        [
+          "bhavet",
+          "bhū",
+          "opt. [1] ac. sg. 3"
+        ]
+      ],
+      [
+        [
+          "tasya",
+          "tad",
+          "m. sg. g."
+        ]
+      ],
+      [
+        [
+          "dine",
+          "dina",
+          "n. sg. loc."
+        ]
+      ],
+      [
+        [
+          "dine",
+          "dina",
+          "n. sg. loc."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "1"
+      ],
+      [
+        "19",
+        "5"
+      ],
+      [
+        "6"
+      ],
+      [
+        "20"
+      ],
+      [
+        "17"
+      ],
+      [
+        "10"
+      ],
+      [
+        "9"
+      ]
+    ]
+  },
+  {
+    "sent_id": 98,
+    "joint_sentence": "kāraṇam kāntipuṣṭyoś ca dīpanam vahnimaṇḍalam",
+    "segmented_sentence": "kāraṇam kānti puṣṭyoḥ ca dīpanam vahni maṇḍalam",
+    "t1_ground_truth": [
+      [
+        "kāraṇam"
+      ],
+      [
+        "kānti",
+        "puṣṭyoḥ"
+      ],
+      [
+        "ca"
+      ],
+      [
+        "dīpanam"
+      ],
+      [
+        "vahni",
+        "maṇḍalam"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "kāraṇa",
+        "n. sg. nom."
+      ],
+      [
+        "kānti",
+        "iic."
+      ],
+      [
+        "puṣṭi",
+        "f. du. g."
+      ],
+      [
+        "ca",
+        "conj."
+      ],
+      [
+        "dīpana",
+        "n. sg. nom."
+      ],
+      [
+        "vahni",
+        "iic."
+      ],
+      [
+        "maṇḍala",
+        "n. sg. nom."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "kāraṇam",
+          "kāraṇa",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "kānti",
+          "kānti",
+          "iic."
+        ],
+        [
+          "puṣṭyoḥ",
+          "puṣṭi",
+          "f. du. g."
+        ]
+      ],
+      [
+        [
+          "ca",
+          "ca",
+          "conj."
+        ]
+      ],
+      [
+        [
+          "dīpanam",
+          "dīpana",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "vahni",
+          "vahni",
+          "iic."
+        ],
+        [
+          "maṇḍalam",
+          "maṇḍala",
+          "n. sg. nom."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "1"
+      ],
+      [
+        "24",
+        "7"
+      ],
+      [
+        "26"
+      ],
+      [
+        "16"
+      ],
+      [
+        "0",
+        "14"
+      ]
+    ]
+  },
+  {
+    "sent_id": 107,
+    "joint_sentence": "evam abhyāsayogena koṣṭhadoṣo na vidyate",
+    "segmented_sentence": "evam abhyāsa yogena koṣṭha doṣaḥ na vidyate",
+    "t1_ground_truth": [
+      [
+        "evam"
+      ],
+      [
+        "abhyāsa",
+        "yogena"
+      ],
+      [
+        "koṣṭha",
+        "doṣaḥ"
+      ],
+      [
+        "na"
+      ],
+      [
+        "vidyate"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "evam",
+        "adv."
+      ],
+      [
+        "abhyāsa",
+        "iic."
+      ],
+      [
+        "yoga",
+        "m. sg. i."
+      ],
+      [
+        "koṣṭha",
+        "iic."
+      ],
+      [
+        "doṣa",
+        "m. sg. nom."
+      ],
+      [
+        "na",
+        "part."
+      ],
+      [
+        "vid",
+        "pr. ps. sg. 3"
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "evam",
+          "evam",
+          "adv."
+        ]
+      ],
+      [
+        [
+          "abhyāsa",
+          "abhyāsa",
+          "iic."
+        ],
+        [
+          "yogena",
+          "yoga",
+          "m. sg. i."
+        ]
+      ],
+      [
+        [
+          "koṣṭha",
+          "koṣṭha",
+          "iic."
+        ],
+        [
+          "doṣaḥ",
+          "doṣa",
+          "m. sg. nom."
+        ]
+      ],
+      [
+        [
+          "na",
+          "na",
+          "part."
+        ]
+      ],
+      [
+        [
+          "vidyate",
+          "vid",
+          "pr. ps. sg. 3"
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "40"
+      ],
+      [
+        "22",
+        "16"
+      ],
+      [
+        "74",
+        "14"
+      ],
+      [
+        "65"
+      ],
+      [
+        "21"
+      ]
+    ]
+  },
+  {
+    "sent_id": 118,
+    "joint_sentence": "na jāyate netrarogaḥ divyadṛṣṭipradāyakam",
+    "segmented_sentence": "na jāyate netra rogaḥ divya dṛṣṭi pradāyakam",
+    "t1_ground_truth": [
+      [
+        "na"
+      ],
+      [
+        "jāyate"
+      ],
+      [
+        "netra",
+        "rogaḥ"
+      ],
+      [
+        "divya",
+        "dṛṣṭi",
+        "pradāyakam"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "na",
+        "part."
+      ],
+      [
+        "jan",
+        "pr. [4] md. sg. 3"
+      ],
+      [
+        "netra",
+        "iic."
+      ],
+      [
+        "roga",
+        "m. sg. nom."
+      ],
+      [
+        "divya",
+        "iic."
+      ],
+      [
+        "dṛṣṭi",
+        "iic."
+      ],
+      [
+        "pradāyaka",
+        "n. sg. nom."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "na",
+          "na",
+          "part."
+        ]
+      ],
+      [
+        [
+          "jāyate",
+          "jan",
+          "pr. [4] md. sg. 3"
+        ]
+      ],
+      [
+        [
+          "netra",
+          "netra",
+          "iic."
+        ],
+        [
+          "rogaḥ",
+          "roga",
+          "m. sg. nom."
+        ]
+      ],
+      [
+        [
+          "divya",
+          "divya",
+          "iic."
+        ],
+        [
+          "dṛṣṭi",
+          "dṛṣṭi",
+          "iic."
+        ],
+        [
+          "pradāyakam",
+          "pradāyaka",
+          "n. sg. nom."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "9"
+      ],
+      [
+        "1"
+      ],
+      [
+        "27",
+        "6"
+      ],
+      [
+        "4",
+        "3",
+        "19"
+      ]
+    ]
+  },
+  {
+    "sent_id": 192,
+    "joint_sentence": "jānuyugme karayugmam etat saṅkaṭam āsanam",
+    "segmented_sentence": "jānu yugme kara yugmam etat saṅkaṭam āsanam",
+    "t1_ground_truth": [
+      [
+        "jānu",
+        "yugme"
+      ],
+      [
+        "kara",
+        "yugmam"
+      ],
+      [
+        "etat"
+      ],
+      [
+        "saṅkaṭam"
+      ],
+      [
+        "āsanam"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "jānu",
+        "iic."
+      ],
+      [
+        "yugma",
+        "n. sg. loc."
+      ],
+      [
+        "kara",
+        "iic."
+      ],
+      [
+        "yugma",
+        "n. sg. acc."
+      ],
+      [
+        "etad",
+        "n. sg. nom."
+      ],
+      [
+        "saṅkaṭa",
+        "n. sg. nom."
+      ],
+      [
+        "āsana",
+        "n. sg. nom."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "jānu",
+          "jānu",
+          "iic."
+        ],
+        [
+          "yugme",
+          "yugma",
+          "n. sg. loc."
+        ]
+      ],
+      [
+        [
+          "kara",
+          "kara",
+          "iic."
+        ],
+        [
+          "yugmam",
+          "yugma",
+          "n. sg. acc."
+        ]
+      ],
+      [
+        [
+          "etat",
+          "etad",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "saṅkaṭam",
+          "saṅkaṭa",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "āsanam",
+          "āsana",
+          "n. sg. nom."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "6",
+        "4"
+      ],
+      [
+        "22",
+        "14"
+      ],
+      [
+        "16"
+      ],
+      [
+        "8"
+      ],
+      [
+        "13"
+      ]
+    ]
+  },
+  {
+    "sent_id": 226,
+    "joint_sentence": "yogāsanam bhaved etad yoginām yogasādhane",
+    "segmented_sentence": "yoga āsanam bhavet etat yoginām yoga sādhane",
+    "t1_ground_truth": [
+      [
+        "yoga",
+        "āsanam"
+      ],
+      [
+        "bhavet"
+      ],
+      [
+        "etat"
+      ],
+      [
+        "yoginām"
+      ],
+      [
+        "yoga",
+        "sādhane"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "yoga",
+        "iic."
+      ],
+      [
+        "āsana",
+        "n. sg. nom."
+      ],
+      [
+        "bhū",
+        "opt. [1] ac. sg. 3"
+      ],
+      [
+        "etad",
+        "n. sg. nom."
+      ],
+      [
+        "yogin",
+        "m. pl. g."
+      ],
+      [
+        "yoga",
+        "iic."
+      ],
+      [
+        "sādhana",
+        "n. sg. loc."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "yoga",
+          "yoga",
+          "iic."
+        ],
+        [
+          "āsanam",
+          "āsana",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "bhavet",
+          "bhū",
+          "opt. [1] ac. sg. 3"
+        ]
+      ],
+      [
+        [
+          "etat",
+          "etad",
+          "n. sg. nom."
+        ]
+      ],
+      [
+        [
+          "yoginām",
+          "yogin",
+          "m. pl. g."
+        ]
+      ],
+      [
+        [
+          "yoga",
+          "yoga",
+          "iic."
+        ],
+        [
+          "sādhane",
+          "sādhana",
+          "n. sg. loc."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "24",
+        "10"
+      ],
+      [
+        "26"
+      ],
+      [
+        "2"
+      ],
+      [
+        "21"
+      ],
+      [
+        "0",
+        "11"
+      ]
+    ]
+  },
+  {
+    "sent_id": 254,
+    "joint_sentence": "jālandhare kṛte bandhe ṣoḍaśādhārabandhanam",
+    "segmented_sentence": "jālandhare kṛte bandhe ṣoḍaśa ādhāra bandhanam",
+    "t1_ground_truth": [
+      [
+        "jālandhare"
+      ],
+      [
+        "kṛte"
+      ],
+      [
+        "bandhe"
+      ],
+      [
+        "ṣoḍaśa",
+        "ādhāra",
+        "bandhanam"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "jālandhara",
+        "m. sg. loc."
+      ],
+      [
+        "kṛta",
+        "m. sg. loc."
+      ],
+      [
+        "bandha",
+        "m. sg. loc."
+      ],
+      [
+        "ṣoḍaśan",
+        "iic."
+      ],
+      [
+        "ādhāra",
+        "iic."
+      ],
+      [
+        "bandhana",
+        "n. sg. nom."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "jālandhare",
+          "jālandhara",
+          "m. sg. loc."
+        ]
+      ],
+      [
+        [
+          "kṛte",
+          "kṛta",
+          "m. sg. loc."
+        ]
+      ],
+      [
+        [
+          "bandhe",
+          "bandha",
+          "m. sg. loc."
+        ]
+      ],
+      [
+        [
+          "ṣoḍaśa",
+          "ṣoḍaśan",
+          "iic."
+        ],
+        [
+          "ādhāra",
+          "ādhāra",
+          "iic."
+        ],
+        [
+          "bandhanam",
+          "bandhana",
+          "n. sg. nom."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "24"
+      ],
+      [
+        "44"
+      ],
+      [
+        "13"
+      ],
+      [
+        "14",
+        "47",
+        "20"
+      ]
+    ]
+  },
+  {
+    "sent_id": 256,
+    "joint_sentence": "siddham jālandharam bandham yoginām siddhidāyakam",
+    "segmented_sentence": "siddham jālandharam bandham yoginām siddhi dāyakam",
+    "t1_ground_truth": [
+      [
+        "siddham"
+      ],
+      [
+        "jālandharam"
+      ],
+      [
+        "bandham"
+      ],
+      [
+        "yoginām"
+      ],
+      [
+        "siddhi",
+        "dāyakam"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "siddha",
+        "m. sg. acc."
+      ],
+      [
+        "jālandhara",
+        "m. sg. acc."
+      ],
+      [
+        "bandha",
+        "m. sg. acc."
+      ],
+      [
+        "yogin",
+        "m. pl. g."
+      ],
+      [
+        "siddhi",
+        "iic."
+      ],
+      [
+        "dāyaka",
+        "m. sg. acc."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "siddham",
+          "siddha",
+          "m. sg. acc."
+        ]
+      ],
+      [
+        [
+          "jālandharam",
+          "jālandhara",
+          "m. sg. acc."
+        ]
+      ],
+      [
+        [
+          "bandham",
+          "bandha",
+          "m. sg. acc."
+        ]
+      ],
+      [
+        [
+          "yoginām",
+          "yogin",
+          "m. pl. g."
+        ]
+      ],
+      [
+        [
+          "siddhi",
+          "siddhi",
+          "iic."
+        ],
+        [
+          "dāyakam",
+          "dāyaka",
+          "m. sg. acc."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "3"
+      ],
+      [
+        "16"
+      ],
+      [
+        "0"
+      ],
+      [
+        "10"
+      ],
+      [
+        "21",
+        "22"
+      ]
+    ]
+  },
+  {
+    "sent_id": 280,
+    "joint_sentence": "gopanīyaḥ prayatnena vedho 'yam yogipuṅgavaiḥ",
+    "segmented_sentence": "gopanīyaḥ prayatnena vedhaḥ ayam yogi puṅgavaiḥ",
+    "t1_ground_truth": [
+      [
+        "gopanīyaḥ"
+      ],
+      [
+        "prayatnena"
+      ],
+      [
+        "vedhaḥ"
+      ],
+      [
+        "ayam"
+      ],
+      [
+        "yogi",
+        "puṅgavaiḥ"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "gopanīya",
+        "m. sg. nom."
+      ],
+      [
+        "prayatna",
+        "m. sg. i."
+      ],
+      [
+        "vedha",
+        "m. sg. nom."
+      ],
+      [
+        "idam",
+        "m. sg. nom."
+      ],
+      [
+        "yogin",
+        "iic."
+      ],
+      [
+        "puṅgava",
+        "m. pl. i."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "gopanīyaḥ",
+          "gopanīya",
+          "m. sg. nom."
+        ]
+      ],
+      [
+        [
+          "prayatnena",
+          "prayatna",
+          "m. sg. i."
+        ]
+      ],
+      [
+        [
+          "vedhaḥ",
+          "vedha",
+          "m. sg. nom."
+        ]
+      ],
+      [
+        [
+          "ayam",
+          "idam",
+          "m. sg. nom."
+        ]
+      ],
+      [
+        [
+          "yogi",
+          "yogin",
+          "iic."
+        ],
+        [
+          "puṅgavaiḥ",
+          "puṅgava",
+          "m. pl. i."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "3"
+      ],
+      [
+        "16"
+      ],
+      [
+        "6"
+      ],
+      [
+        "23"
+      ],
+      [
+        "15",
+        "18"
+      ]
+    ]
+  },
+  {
+    "sent_id": 284,
+    "joint_sentence": "yāvad gacched bhruvor madhye tadā sidhyati khecarī",
+    "segmented_sentence": "yāvat gacchet bhruvoḥ madhye tadā sidhyati khecarī",
+    "t1_ground_truth": [
+      [
+        "yāvat"
+      ],
+      [
+        "gacchet"
+      ],
+      [
+        "bhruvoḥ"
+      ],
+      [
+        "madhye"
+      ],
+      [
+        "tadā"
+      ],
+      [
+        "sidhyati"
+      ],
+      [
+        "khecarī"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "yāvat",
+        "adv."
+      ],
+      [
+        "gam",
+        "opt. [1] ac. sg. 3"
+      ],
+      [
+        "bhrū",
+        "f. du. g."
+      ],
+      [
+        "madhya",
+        "n. sg. loc."
+      ],
+      [
+        "tadā",
+        "adv."
+      ],
+      [
+        "sidh",
+        "pr. [4] ac. sg. 3"
+      ],
+      [
+        "khecarī",
+        "f. sg. nom."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "yāvat",
+          "yāvat",
+          "adv."
+        ]
+      ],
+      [
+        [
+          "gacchet",
+          "gam",
+          "opt. [1] ac. sg. 3"
+        ]
+      ],
+      [
+        [
+          "bhruvoḥ",
+          "bhrū",
+          "f. du. g."
+        ]
+      ],
+      [
+        [
+          "madhye",
+          "madhya",
+          "n. sg. loc."
+        ]
+      ],
+      [
+        [
+          "tadā",
+          "tadā",
+          "adv."
+        ]
+      ],
+      [
+        [
+          "sidhyati",
+          "sidh",
+          "pr. [4] ac. sg. 3"
+        ]
+      ],
+      [
+        [
+          "khecarī",
+          "khecarī",
+          "f. sg. nom."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "9"
+      ],
+      [
+        "1"
+      ],
+      [
+        "6"
+      ],
+      [
+        "23"
+      ],
+      [
+        "13"
+      ],
+      [
+        "21"
+      ],
+      [
+        "5"
+      ]
+    ]
+  },
+  {
+    "sent_id": 287,
+    "joint_sentence": "bhruvor madhye gatā dṛṣṭir mudrā bhavati khecarī",
+    "segmented_sentence": "bhruvoḥ madhye gatā dṛṣṭiḥ mudrā bhavati khecarī",
+    "t1_ground_truth": [
+      [
+        "bhruvoḥ"
+      ],
+      [
+        "madhye"
+      ],
+      [
+        "gatā"
+      ],
+      [
+        "dṛṣṭiḥ"
+      ],
+      [
+        "mudrā"
+      ],
+      [
+        "bhavati"
+      ],
+      [
+        "khecarī"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "bhrū",
+        "f. du. g."
+      ],
+      [
+        "madhya",
+        "n. sg. loc."
+      ],
+      [
+        "gata",
+        "f. sg. nom."
+      ],
+      [
+        "dṛṣṭi",
+        "f. sg. nom."
+      ],
+      [
+        "mudrā",
+        "f. sg. nom."
+      ],
+      [
+        "bhū",
+        "pr. [1] ac. sg. 3"
+      ],
+      [
+        "khecarī",
+        "f. sg. nom."
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "bhruvoḥ",
+          "bhrū",
+          "f. du. g."
+        ]
+      ],
+      [
+        [
+          "madhye",
+          "madhya",
+          "n. sg. loc."
+        ]
+      ],
+      [
+        [
+          "gatā",
+          "gata",
+          "f. sg. nom."
+        ]
+      ],
+      [
+        [
+          "dṛṣṭiḥ",
+          "dṛṣṭi",
+          "f. sg. nom."
+        ]
+      ],
+      [
+        [
+          "mudrā",
+          "mudrā",
+          "f. sg. nom."
+        ]
+      ],
+      [
+        [
+          "bhavati",
+          "bhū",
+          "pr. [1] ac. sg. 3"
+        ]
+      ],
+      [
+        [
+          "khecarī",
+          "khecarī",
+          "f. sg. nom."
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "0"
+      ],
+      [
+        "27"
+      ],
+      [
+        "2"
+      ],
+      [
+        "31"
+      ],
+      [
+        "6"
+      ],
+      [
+        "4"
+      ],
+      [
+        "17"
+      ]
+    ]
+  },
+  {
+    "sent_id": 293,
+    "joint_sentence": "kapālavaktrasaṃyoge rasanā rasam āpnuyāt",
+    "segmented_sentence": "kapāla vaktra saṃyoge rasanā rasam āpnuyāt",
+    "t1_ground_truth": [
+      [
+        "kapāla",
+        "vaktra",
+        "saṃyoge"
+      ],
+      [
+        "rasanā"
+      ],
+      [
+        "rasam"
+      ],
+      [
+        "āpnuyāt"
+      ]
+    ],
+    "t2_ground_truth": [
+      [
+        "kapāla",
+        "iic."
+      ],
+      [
+        "vaktra",
+        "iic."
+      ],
+      [
+        "saṃyoga",
+        "m. sg. loc."
+      ],
+      [
+        "rasanā",
+        "f. sg. nom."
+      ],
+      [
+        "rasa",
+        "m. sg. acc."
+      ],
+      [
+        "āp",
+        "opt. [5] ac. sg. 3"
+      ]
+    ],
+    "t3_ground_truth": [
+      [
+        [
+          "kapāla",
+          "kapāla",
+          "iic."
+        ],
+        [
+          "vaktra",
+          "vaktra",
+          "iic."
+        ],
+        [
+          "saṃyoge",
+          "saṃyoga",
+          "m. sg. loc."
+        ]
+      ],
+      [
+        [
+          "rasanā",
+          "rasanā",
+          "f. sg. nom."
+        ]
+      ],
+      [
+        [
+          "rasam",
+          "rasa",
+          "m. sg. acc."
+        ]
+      ],
+      [
+        [
+          "āpnuyāt",
+          "āp",
+          "opt. [5] ac. sg. 3"
+        ]
+      ]
+    ],
+    "graphml_node_ids": [
+      [
+        "1",
+        "3",
+        "23"
+      ],
+      [
+        "19"
+      ],
+      [
+        "18"
+      ],
+      [
+        "21"
+      ]
+    ]
+  }
+]
